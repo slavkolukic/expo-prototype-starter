@@ -36,7 +36,6 @@ When you run the script, it will:
 Make sure you have:
 
 - [Node.js](https://nodejs.org/) and `npm` installed
-- [Expo CLI](https://docs.expo.dev/get-started/installation/) (`npm install -g expo-cli`)
 - Bash shell (macOS, Linux, WSL, or Git Bash on Windows)
 
 ---
